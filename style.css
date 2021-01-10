@@ -1,0 +1,293 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+header{
+    width:100%;
+    background-color: #444444;
+    height: 54px;
+       }
+.container{
+    width:1080px;
+    margin:0px auto;    
+          }
+nav{
+ float:left;
+}
+nav>ul>li{
+    float:left;
+    list-style-type: none;
+    color:white;
+    margin:20px 0px 0px 30px;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+#righth{
+    float:right;
+}
+#righth>ul>li{
+    float:left;
+    list-style-type: none;
+    margin:20px 0px 0px 20px;
+}
+#mimage{
+    clear:both;
+	width:100%;
+    height:722px;
+    background-image: url(images/main.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+	background-size: cover;
+}
+#mimagecontent{
+    width:1080px;
+    margin:0px auto;
+	position:relative;
+	top:250px;
+}
+#mimglogo{
+	margin-left:500px;
+}
+h1{
+    color: white;
+    font-family: cursive;
+	text-align: center;
+	margin-top: 50px;
+}
+.this{
+    font-size: 15px;
+    font-family: sans-serif;
+    color: white;
+    text-align: center;
+	margin-top: 30px;
+}
+.download{
+    font-size: 15px;
+    color: white;
+    font-family: sans-serif;
+    text-align:center;
+	margin-top: 10px;
+}
+.twobuttons{
+	text-align-last: center;
+	margin-top: 30px;
+}
+.downbutton{
+	margin-right:10px;
+}
+#ourservice{
+    margin: 0px auto;
+    width: 1080px;
+    height: 332px;
+ 
+}
+.os h2{
+    margin:0px auto;
+    margin-top:40px;
+    font: italic 25px sans-serif;
+	color:#555555;
+	text-align: center;
+    width:160px;
+    height:50px;
+    border-bottom-style: dotted;
+    border-bottom-width: 1px;  
+}
+.brandcont,.webdesign,.socialmedia{
+    width: 302px;
+    height: 180px;
+    float:left;
+    margin-top: 17px;
+    padding-right: 53px;
+}
+.icon1{
+    float:left;
+    width:105px;
+    padding: 10px 20px;  
+}
+.brandc{
+    width: 157px;
+    height: 180px;
+    float: right;
+}
+.brandc p,.utwisi p,.sed p,.quis p,.minim p{
+     font:14px sans-serif;
+     color: #555555;
+     line-height: 28px;
+}
+.brand{
+    font: italic 18px sans-serif;
+    color: #555555;
+    padding: 7px 0px 30px;
+}
+#support{
+    width:100%;
+    background-color: #f9f9f9;
+    height:528px;
+}
+#supportcont{
+    margin: 0px auto;
+    width: 1080px;
+    height: 584px;
+}
+.headsupport{
+    font: italic 18px sans-serif;
+    color: #555555;
+}
+.supporttext{
+    float:left;
+    padding-top: 82px;
+    width:616px;
+    height:350px;
+}
+.supporttext1{
+    font: 14px sans-serif;
+    color: #555555;
+    margin-top: 20px;
+    line-height: 25px;
+}
+.supporttext2{
+    font: 12px sans-serif;
+    color: #555555;
+    margin-top: 22px;
+     line-height: 30px;
+}
+.supporttext3{
+    font: 11px sans-serif;
+    color: #555555;
+    margin-top: 10px;
+     line-height: 30px;
+}
+.supportimg{
+    float:right;
+    padding-top: 67px;
+}
+#moreservice{
+    margin: 0px auto;
+    width: 1080px;
+    height:450px;
+}
+.ms h2{
+    margin:0px auto;
+    margin-top:60px;
+    font:italic 25px sans-serif;
+	color:#555555;
+	text-align: center; 
+    border-bottom-style: dotted;
+    border-bottom-width: 1px; 
+    width:156px;
+    height:50px;
+}
+.moreservicecontent{
+    margin-top:50px;
+}
+.utwisicontent,.quiscontent{
+    width:508px;
+    height:150px;
+    float:left;
+}
+.sedcontent,.minimcontent{
+    width:508px;
+    height:150px;
+    float:right;
+}
+.utwisiimg,.sedimg,.quisimg,.minimimg{
+    float:left;
+    margin:0px 60px 0px 20px;
+}
+.utwisi,.sed,.quis,.minim{
+    width:368px;
+    height:130px;
+    float:right;
+}
+.utwisi h2,.sed h2,.quis h2,.minim h2{
+    font: italic 18px sans-serif;
+    color: #555555;
+    padding: 7px 0px;
+}
+.downlsection{
+    clear:both;
+    width:100%;
+    height:320px;
+    background-image: url(images/downloadsection.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.downlsectioncontent{
+    width:1080px;
+    margin:0px auto;
+    padding-top:92px;
+}
+.downlsectioncontent p{
+    color:white;
+    font:19px sans-serif;
+    line-height: 35px;
+    text-align: center;
+}
+.downlsectioncontent img{
+    margin-top: 36px;
+    margin-left: 442px;
+}
+.ourportfolio{
+    width:1080px;
+    margin:0px auto;
+    height:804px;
+}
+.op h2{
+    margin:0px auto;
+    margin-top:60px;
+    font:italic 25px sans-serif;
+	color:#555555;
+	text-align: center;
+    border-bottom-style: dotted;
+    border-bottom-width: 1px; 
+    width:138px;
+    height:50px;
+}
+.op p{
+    text-align: center;
+    color:#555555;
+    font: 14px sans-serif;
+    margin-top:25px;
+}
+.op1,.op2,.op3{
+    margin-top: 28px;
+    width:340px;
+    height:450px;
+    float:left;
+    margin-right:20px;
+}
+.op1 h2,.op2 h2,.op3 h2{
+    font:italic 18px sans-serif;
+	color:#555555;
+    margin-top:36px;
+}
+.op1 p,.op2 p,.op3 p{
+    font: 13px sans-serif;
+	color:#555555;
+    line-height: 40px;
+}
+.loadmore{
+    margin-top:130px;
+    margin-left: 460px;
+}
+.mobile{
+    width:100%;
+    height:512px;
+    background-image: url(images/main.jpg);
+    background-position: center;
+    background-repeat: no-repeat;  
+    background-size:cover;
+}
+.mobcontent{
+    width:1080px;
+    margin:0px auto;
+}
+.mobcontent img{
+    margin:100px auto 0px 450px;
+}
+.mobcontent p{
+    text-align: center;
+    line-height: 30px;
+    color:white;
+}
